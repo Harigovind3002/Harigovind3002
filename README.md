@@ -1,4 +1,3 @@
-![Animated GIF](https://github.com/shazinabbas/shazinabbas/blob/main/ezgif.com-gif-maker%20(4).gif)
 
 [![An image of @harigovind3002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harigovind3002)](https://holopin.io/@harigovind3002)
 ### <h3 align="center">Languages and Tools:</h3>
@@ -18,5 +17,5 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hargovind3002&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harigovind3002&show_icons=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harigovind3002)
