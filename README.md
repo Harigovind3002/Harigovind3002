@@ -18,5 +18,4 @@
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harigovind3002&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harigovind3002&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=harigovind3002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
