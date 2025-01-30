@@ -1,5 +1,5 @@
-
 [![An image of @harigovind3002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harigovind3002)](https://holopin.io/@harigovind3002)
+
 ### <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -17,4 +17,8 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harigovind3002)](https://git.io/streak-stats)
+### <h3 align="center">GitHub Streak Stats:</h3>
+
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=harigovind3002&theme=dark)](https://git.io/streak-stats)
+</p>
